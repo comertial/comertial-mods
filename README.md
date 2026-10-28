@@ -20,7 +20,7 @@ A [Claude Code](https://docs.claude.com/en/docs/claude-code) plugin marketplace.
 
 **Review every file Claude touches, like a pull request, without leaving the terminal.** A docked pane lists Claude's changes as a tree with +/- counts. Accept or reject per file, per folder or all at once, revert single blocks in a VS Code diff, and Claude is told what you decided.
 
-<img src="https://raw.githubusercontent.com/comertial/claude-pending-changes/v0.2.0/assets/demo.gif" alt="pending-changes demo: Claude edits files, the review pane lists them, changes are reverted in VS Code and rejected with one click" width="720">
+<img src="https://raw.githubusercontent.com/comertial/claude-pending-changes/v1.0.1/assets/demo.gif" alt="pending-changes demo: Claude edits files, the review pane lists them, changes are reverted in VS Code and rejected with one click" width="720">
 
 ```
 /plugin install pending-changes --marketplace comertial/comertial-mods

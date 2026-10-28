@@ -6,7 +6,7 @@
     {
       "name": "pending-changes",
       "description": "Copilot-style review of the files Claude changes: accept/reject per file, folder or all, with a VS Code diff.",
-      "source": { "source": "github", "repo": "comertial/claude-pending-changes", "ref": "v1.0.0" }
+      "source": { "source": "github", "repo": "comertial/claude-pending-changes", "ref": "v1.0.1" }
     }
   ]
 }
